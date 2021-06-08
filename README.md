@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewJSD
 - 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React, Next.js
+- 🌱 I’m currently working with React, Redux, Node.js, Express.js and Mongo
 - 💞️ I’m looking to collaborate on interesting fancy projects :)
 - 📫 How to reach me {
   email: "akliuiko93@gmail.com",
